@@ -1,3 +1,3 @@
 # nielstheme README
 
-This theme is my personal theme based on Gruvbox but with cooler colors.
+This theme is my personal vscode theme based on Gruvbox but with cooler colors.
