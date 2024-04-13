@@ -1,23 +1,36 @@
 {
-  "name": "nlootheme",
-  "repository": "https://github.com/n-loo/nielstheme",
-  "publisher": "nloo",
-  "displayName": "nloo-theme",
-  "description": "cooler gruvbox colors",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "nloo-Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nloo-Theme-color-theme.json"
-      }
-    ]
-  }
+	"name": "nlootheme",
+	"repository": "https://github.com/n-loo/nielstheme",
+	"publisher": "nloo",
+	"displayName": "nloo-theme",
+	"description": "cooler gruvbox colors",
+	"icon": "icon.png",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "nloo-Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nloo-Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4c8b53cc-79e5-4b38-b5a2-b5664dad003f",
+		"publisherId": "b22a9126-aa3b-406e-bc49-d43fbcdd8098",
+		"publisherDisplayName": "nloo",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1712977792607,
+		"pinned": false,
+		"source": "gallery"
+	}
 }
