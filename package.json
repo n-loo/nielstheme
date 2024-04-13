@@ -1,6 +1,8 @@
 {
-  "name": "nielstheme",
-  "displayName": "niels-theme",
+  "name": "nlootheme",
+  "repository": "https://github.com/n-loo/nielstheme",
+  "publisher": "nloo",
+  "displayName": "nloo-theme",
   "description": "cooler gruvbox colors",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Niels-Theme",
+        "label": "nloo-Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Niels-Theme-color-theme.json"
+        "path": "./themes/nloo-Theme-color-theme.json"
       }
     ]
   }
